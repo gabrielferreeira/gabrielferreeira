@@ -4,7 +4,7 @@
 
 ![Gabriel lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielferreeira&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreeira&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreeira&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dracula)
 
 ## Tecnológias que eu mais uso:
 
